@@ -1,4 +1,4 @@
-A simple Java-based Hostel Management System with a Graphical User Interface (GUI) and text file storage.
+This project is a simple Java-based Hostel Management System with a Graphical User Interface (GUI) and text file storage.  
 This project is an example project that is using OOP Concept and designed for managing student hostel records such as room allocation, student details, and hostel information.
 
 # Project Structure
@@ -33,7 +33,7 @@ In NetBeans, right-click the project → Run
 Or open Main.java (inside src/assignment/) and press Shift + F6  
 The Hostel Management GUI will appear  
 
-# 📖 Example Data Files
+# Example Data Files
 ```text
 residents.txt     -> stores student hostel residents
 staffs.txt        -> staff information
