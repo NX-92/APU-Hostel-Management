@@ -1,0 +1,650 @@
+2025-01-25 21:09:47 - (Manager) Ng clear the system logs of 01, 2025
+2025-01-25 21:10:05 - (Manager) Ng enter into manager function.
+2025-01-25 21:13:22 - (Manager) Ng logout the system.
+2025-01-25 21:13:22 - (System) System has been closed.
+2025-01-25 23:19:13 - (System) System has started.
+2025-01-25 23:31:53 - (Resident) A login into system.
+2025-01-25 23:31:53 - (Resident) A enter into resident function.
+2025-01-25 23:38:05 - (Resident) A enter into resident function.
+2025-01-25 23:38:05 - (Resident) A enter view all payments Resident function.
+2025-01-25 23:38:07 - (Resident) A searched payment for C_01_01(Room Type: Small Room) when All month, All year.
+2025-01-25 23:43:49 - (Resident) A searched payment for C_01_01(Room Type: Small Room) when All month, 2024 year.
+2025-01-25 23:45:34 - (Resident) A searched payment by PAYMENT NUMBER: 10001.
+2025-01-25 23:48:08 - (Resident) A searched payment receipt by RECEIPT NUMBER: REC10001.
+2025-01-25 23:49:41 - (Resident) A enter into resident function.
+2025-01-25 23:49:42 - (Resident) A logout the system.
+2025-01-25 23:49:59 - (Staff) Ng login into system.
+2025-01-25 23:49:59 - (Staff) Ng enter into staff function.
+2025-01-25 23:50:03 - (Staff) Ng open process payment staff function.
+2025-01-25 23:50:04 - (Staff) Ng enter into staff function.
+2025-01-25 23:53:27 - (Staff) Ng enter into staff function.
+2025-01-25 23:54:06 - (Staff) Ng enter into staff function.
+2025-01-25 23:56:26 - (Staff) Ng enter into staff function.
+2025-01-25 23:57:19 - (Staff) Ng enter into staff function.
+2025-01-25 23:57:56 - (Staff) Ng enter into staff function.
+2025-01-25 23:59:26 - (Staff) Ng enter into staff function.
+2025-01-25 23:59:39 - (Staff) Ng enter into staff function.
+2025-01-26 00:07:01 - (Staff) Ng enter into staff function.
+2025-01-26 00:07:02 - (Staff) Ng open process payment staff function.
+2025-01-26 00:09:08 - (Staff) Ng process a payment for A_01_01, Normal Room and the amount is 400.0, the total amount of payment is 400.0 and the change is 0.
+2025-01-26 00:09:08 - (System) Ng process a payment and generate a receipt for A_01_01, Normal Room and the receipt number is REC10003.
+2025-01-26 00:22:26 - (Staff) Ng enter into staff function.
+2025-01-26 00:22:27 - (Staff) Ng enter view all payments Staff function.
+2025-01-26 00:23:12 - (Staff) Ng searched payment for A_01_01(Room Type: All) when All month, All year.
+2025-01-26 00:24:45 - (Staff) Ng searched payment for A_01_01(Room Type: All) when All month, 2024 year.
+2025-01-26 00:25:58 - (Staff) Ng searched payment by PAYMENT NUMBER: 10005.
+2025-01-26 00:26:53 - (Staff) Ng searched payment receipt by RECEIPT NUMBER: REC10003.
+2025-01-26 00:26:57 - (Staff) Ng searched payment receipt by RECEIPT NUMBER: REC10002.
+2025-01-26 00:27:01 - (Staff) Ng searched payment receipt by RECEIPT NUMBER: REC10001.
+2025-01-26 00:27:07 - (Staff) Ng searched payment receipt by RECEIPT NUMBER: REC10003.
+2025-01-26 00:32:00 - (Staff) Ng enter into staff function.
+2025-01-26 00:33:01 - (Staff) Ng logout the system.
+2025-01-26 00:33:08 - (Manager) Ng login into system.
+2025-01-26 00:33:08 - (Manager) Ng enter into manager function.
+2025-01-26 00:41:38 - (Manager) Ng enter into user management manager function.
+2025-01-26 00:41:41 - (Manager) Ng search Resident, A
+2025-01-26 00:42:23 - (Manager) Ng enter into user management manager function.
+2025-01-26 00:42:25 - (Manager) Ng search Resident, A
+2025-01-26 00:42:34 - (Manager) Ng enter into user management manager function.
+2025-01-26 00:42:36 - (Manager) Ng search Resident, A
+2025-01-26 00:43:54 - (Manager) Ng enter into user management manager function.
+2025-01-26 00:43:55 - (Manager) Ng search Resident, A
+2025-01-26 00:48:08 - (Manager) Ng enter into user management manager function.
+2025-01-26 00:48:09 - (Manager) Ng enter into manager function.
+2025-01-26 00:48:10 - (Manager) Ng enter view all payments Manager function.
+2025-01-26 00:49:05 - (Manager) Ng searched payment for A_01_01(Room Type: All) when All month, All year.
+2025-01-26 00:51:01 - (Manager) Ng searched payment for A_01_01(Room Type: All) when All month, 2024 year.
+2025-01-26 00:51:58 - (Manager) Ng searched payment by PAYMENT NUMBER: 10001.
+2025-01-26 00:54:20 - (Manager) Ng searched payment receipt by RECEIPT NUMBER: REC10002.
+2025-01-26 00:57:20 - (Manager) Ng enter into manager function.
+2025-01-26 00:57:21 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 00:57:23 - (Manager) Ng enter into manager function.
+2025-01-26 00:57:25 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 00:57:26 - (Manager) Ng enter into manager function.
+2025-01-26 00:57:28 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:06:26 - (System) System has started.
+2025-01-26 01:06:32 - (Manager) Ng login into system.
+2025-01-26 01:06:32 - (Manager) Ng enter into manager function.
+2025-01-26 01:06:33 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:08:01 - (System) System has started.
+2025-01-26 01:08:08 - (Manager) Ng login into system.
+2025-01-26 01:08:08 - (Manager) Ng enter into manager function.
+2025-01-26 01:08:12 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:08:17 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:09:53 - (System) System has started.
+2025-01-26 01:09:59 - (Manager) Ng login into system.
+2025-01-26 01:09:59 - (Manager) Ng enter into manager function.
+2025-01-26 01:10:00 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:10:04 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:10:07 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:10:30 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:10:53 - (Manager) Ng change receipt, REC10001
+2025-01-26 01:10:54 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:11:01 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:11:05 - (Manager) Ng change receipt, REC10001
+2025-01-26 01:11:06 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:14:16 - (Manager) Ng change payment, 10001
+2025-01-26 01:14:16 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:16:35 - (Manager) Ng change payment, 10001
+2025-01-26 01:16:35 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:19:30 - (Manager) Ng change receipt, REC10001
+2025-01-26 01:20:11 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:25:20 - (Manager) Ng change receipt, REC10001
+2025-01-26 01:25:21 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 01:58:20 - (Manager) Ng enter into manager function.
+2025-01-26 01:58:24 - (Manager) Ng logout the system.
+2025-01-26 01:58:26 - (System) System has been closed.
+2025-01-26 03:48:35 - (System) System has started.
+2025-01-26 03:48:36 - (System) System has been closed.
+2025-01-26 12:03:25 - (System) System has started.
+2025-01-26 12:03:32 - (System) System has been closed.
+2025-01-26 12:03:41 - (System) System has started.
+2025-01-26 12:03:41 - (System) A JANUARY, 2025 payment for C_01_01 (Small Room) has been generated
+2025-01-26 12:03:42 - (System) System has been closed.
+2025-01-26 12:03:46 - (System) System has started.
+2025-01-26 12:03:46 - (System) A JANUARY, 2025 payment for C_01_01 (Small Room) has been generated
+2025-01-26 12:03:52 - (System) System has been closed.
+2025-01-26 12:04:03 - (System) System has started.
+2025-01-26 12:04:08 - (System) System has been closed.
+2025-01-26 16:12:30 - (System) System has started.
+2025-01-26 16:14:41 - (Manager) Ng login into system.
+2025-01-26 16:14:41 - (Manager) Ng enter into manager function.
+2025-01-26 16:14:42 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 16:14:44 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-01-26 16:14:56 - (Manager) Ng enter into manager function.
+2025-01-26 16:14:58 - (Manager) Ng logout the system.
+2025-01-26 16:14:58 - (System) System has been closed.
+2025-01-26 23:50:25 - (System) System has started.
+2025-01-26 23:50:27 - (System) System has been closed.
+2025-01-27 00:22:44 - (System) System has started.
+2025-01-27 00:22:52 - (Manager) Ng login into system.
+2025-01-27 00:22:52 - (Manager) Ng enter into manager function.
+2025-01-27 00:22:53 - (Manager) Ng logout the system.
+2025-01-27 00:22:54 - (System) System has been closed.
+2025-01-27 00:23:02 - (System) System has started.
+2025-01-27 00:23:03 - (System) System has been closed.
+2025-02-02 13:59:50 - (System) System has started.
+2025-02-02 13:59:50 - (System) A FEBRUARY, 2025 payment for A_01_01 (Small Room) has been generated
+2025-02-02 13:59:50 - (System) A FEBRUARY, 2025 payment for A_01_01 (Normal Room) has been generated
+2025-02-02 13:59:50 - (System) A FEBRUARY, 2025 payment for A_01_01 (Master Room) has been generated
+2025-02-02 13:59:50 - (System) A FEBRUARY, 2025 payment for B_01_01 (Small Room) has been generated
+2025-02-02 13:59:50 - (System) A FEBRUARY, 2025 payment for C_01_01 (Small Room) has been generated
+2025-02-02 14:00:26 - (Manager) Ng Change password from A1234512345 to A12345123455
+2025-02-02 14:00:39 - (Manager) Ng login into system.
+2025-02-02 14:00:39 - (Manager) Ng enter into manager function.
+2025-02-02 14:00:41 - (Manager) Ng opened the system logs manager function.
+2025-02-02 14:00:54 - (Manager) Ng enter into manager function.
+2025-02-02 14:00:56 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-02 14:00:57 - (Manager) Ng enter into manager function.
+2025-02-02 14:00:57 - (Manager) Ng enter view all payments Manager function.
+2025-02-02 14:00:58 - (Manager) Ng enter into manager function.
+2025-02-02 14:00:59 - (Manager) Ng enter into openUpdatePaymentRate manager function.
+2025-02-02 14:01:00 - (Manager) Ng enter into manager function.
+2025-02-02 14:01:01 - (Manager) Ng enter into user management manager function.
+2025-02-02 14:01:03 - (Manager) Ng enter into manager function.
+2025-02-02 14:01:04 - (Manager) Ng Enter add user manager function.
+2025-02-02 14:01:05 - (Manager) Ng enter into manager function.
+2025-02-02 14:01:06 - (Manager) Ng enter approve registration request manager function.
+2025-02-02 14:01:07 - (Manager) Ng enter into manager function.
+2025-02-02 14:01:09 - (Manager) Ng logout the system.
+2025-02-02 14:01:10 - (System) System has been closed.
+2025-02-02 14:01:14 - (System) System has started.
+2025-02-02 14:01:50 - (Resident) A login into system.
+2025-02-02 14:01:50 - (Resident) A enter into resident function.
+2025-02-02 14:01:52 - (Resident) A enter view all payments Resident function.
+2025-02-02 14:01:54 - (Resident) A searched payment for C_01_01(Room Type: Small Room) when All month, All year.
+2025-02-02 14:02:21 - (Resident) A searched payment by PAYMENT NUMBER: 10005.
+2025-02-02 14:02:29 - (Resident) A enter into resident function.
+2025-02-02 14:02:33 - (Resident) A logout the system.
+2025-02-02 14:02:34 - (System) System has been closed.
+2025-02-02 14:14:11 - (System) System has started.
+2025-02-02 14:14:15 - (System) System has been closed.
+2025-02-02 14:14:35 - (System) System has started.
+2025-02-02 14:14:59 - (System) System has started.
+2025-02-02 14:18:23 - (System) System has been closed.
+2025-02-02 14:18:29 - (System) System has started.
+2025-02-02 14:22:59 - (Manager) Ng login into system.
+2025-02-02 14:22:59 - (Manager) Ng enter into manager function.
+2025-02-02 14:23:04 - (Manager) Ng enter approve registration request manager function.
+2025-02-02 14:23:05 - (Manager) Ng enter into manager function.
+2025-02-02 14:23:07 - (Manager) Ng logout the system.
+2025-02-02 14:23:08 - (System) System has been closed.
+2025-02-03 14:14:53 - (System) System has started.
+2025-02-03 14:15:06 - (System) System has been closed.
+2025-02-03 14:51:10 - (System) System has started.
+2025-02-03 14:51:23 - (Resident) A login into system.
+2025-02-03 14:51:23 - (Resident) A enter into resident function.
+2025-02-03 14:51:58 - (Resident) A logout the system.
+2025-02-03 14:53:45 - (System) System has been closed.
+2025-02-03 15:42:58 - (System) System has started.
+2025-02-03 15:43:33 - (Staff) Ng login into system.
+2025-02-03 15:43:33 - (Staff) Ng enter into staff function.
+2025-02-03 15:43:34 - (Staff) Ng open process payment staff function.
+2025-02-03 15:43:36 - (Staff) Ng enter into staff function.
+2025-02-03 15:43:37 - (Staff) Ng enter view all payments Staff function.
+2025-02-03 15:43:42 - (Staff) Ng searched receipt for A_01_01(Room Type: All) when All month, All year.
+2025-02-03 15:43:51 - (Staff) Ng enter into staff function.
+2025-02-03 15:44:10 - (Staff) Ng open process payment staff function.
+2025-02-03 15:45:53 - (Staff) Ng enter into staff function.
+2025-02-03 15:46:01 - (Staff) Ng logout the system.
+2025-02-03 15:46:24 - (Manager) Ng login into system.
+2025-02-03 15:46:24 - (Manager) Ng enter into manager function.
+2025-02-03 15:51:28 - (Manager) Ng logout the system.
+2025-02-03 15:51:32 - (System) System has been closed.
+2025-02-05 12:47:21 - (System) System has started.
+2025-02-05 12:47:30 - (Manager) Ng login into system.
+2025-02-05 12:47:30 - (Manager) Ng enter into manager function.
+2025-02-05 12:47:33 - (Manager) Ng enter into user management manager function.
+2025-02-05 12:47:40 - (Manager) Ng enter into manager function.
+2025-02-05 12:47:41 - (Manager) Ng enter approve registration request manager function.
+2025-02-05 12:47:43 - (Manager) Ng enter into manager function.
+2025-02-05 12:47:45 - (Manager) Ng logout the system.
+2025-02-05 12:47:46 - (System) System has been closed.
+2025-02-05 12:48:01 - (System) System has started.
+2025-02-05 12:48:08 - (Manager) Ng login into system.
+2025-02-05 12:48:08 - (Manager) Ng enter into manager function.
+2025-02-05 12:48:09 - (Manager) Ng Enter add user manager function.
+2025-02-05 12:48:11 - (Manager) Ng enter into manager function.
+2025-02-05 12:48:11 - (Manager) Ng enter into user management manager function.
+2025-02-05 12:48:23 - (Manager) Ng search Resident, B
+2025-02-05 12:48:43 - (Manager) Ng enter into user management manager function.
+2025-02-05 12:48:44 - (Manager) Ng enter into manager function.
+2025-02-05 12:48:46 - (Manager) Ng logout the system.
+2025-02-05 12:48:46 - (System) System has been closed.
+2025-02-05 16:30:24 - (System) System has started.
+2025-02-05 16:30:54 - (System) System has been closed.
+2025-02-05 17:00:20 - (System) System has started.
+2025-02-05 17:02:13 - (System) System has been closed.
+2025-02-06 14:37:20 - (System) System has started.
+2025-02-06 14:43:42 - (System) System has started.
+2025-02-06 14:43:53 - (Staff) Ng login into system.
+2025-02-06 14:43:53 - (Staff) Ng enter into staff function.
+2025-02-06 14:44:08 - (Staff) Ngg modify his/her name from Ng to Ngg.
+2025-02-06 14:44:08 - (Staff) Ngg modify his/her password from A12341234 to AAA12341234.
+2025-02-06 14:44:09 - (Staff) Ngg enter into staff function.
+2025-02-06 14:44:12 - (Staff) Ngg open process payment staff function.
+2025-02-06 14:44:15 - (Staff) Ngg enter into staff function.
+2025-02-06 14:44:16 - (Staff) Ngg logout the system.
+2025-02-06 14:44:17 - (System) System has been closed.
+2025-02-06 14:44:19 - (System) System has been closed.
+2025-02-06 14:45:56 - (System) System has started.
+2025-02-06 14:46:05 - (Resident) AA login into system.
+2025-02-06 14:46:05 - (Resident) AA enter into resident function.
+2025-02-06 14:46:06 - (Resident) AA enter view all payments Resident function.
+2025-02-06 14:46:07 - (Resident) AA searched payment for A_01_01(Room Type: Small Room) when All month, All year.
+2025-02-06 14:46:19 - (Resident) AA searched payment for A_01_01(Room Type: Small Room) when All month, All year.
+2025-02-06 14:46:22 - (Resident) AA searched receipt for A_01_01(Room Type: Small Room) when All month, All year.
+2025-02-06 14:46:36 - (Resident) AA searched payment by PAYMENT NUMBER: 10006.
+2025-02-06 14:46:38 - (Resident) AA enter into resident function.
+2025-02-06 14:46:39 - (Resident) AA enter view all payments Resident function.
+2025-02-06 14:46:40 - (Resident) AA enter into resident function.
+2025-02-06 14:46:47 - (Resident) AA modify his/her password from A123123123 to AAA123123123.
+2025-02-06 14:46:48 - (Resident) AA enter into resident function.
+2025-02-06 14:46:49 - (Resident) AA logout the system.
+2025-02-06 14:46:51 - (System) System has been closed.
+2025-02-06 20:59:35 - (System) System has started.
+2025-02-06 20:59:35 - (System) A FEBRUARY, 2025 payment for A_01_01 (Small Room) has been generated
+2025-02-06 20:59:35 - (System) A FEBRUARY, 2025 payment for A_01_01 (Normal Room) has been generated
+2025-02-06 20:59:35 - (System) A FEBRUARY, 2025 payment for A_01_01 (Master Room) has been generated
+2025-02-06 20:59:35 - (System) A FEBRUARY, 2025 payment for B_01_01 (Small Room) has been generated
+2025-02-06 20:59:35 - (System) A FEBRUARY, 2025 payment for C_01_01 (Small Room) has been generated
+2025-02-06 20:59:38 - (System) System has been closed.
+2025-02-06 21:02:05 - (System) System has started.
+2025-02-06 21:02:32 - (Staff) Ng login into system.
+2025-02-06 21:02:32 - (Staff) Ng enter into staff function.
+2025-02-06 21:02:33 - (Staff) Ng open process payment staff function.
+2025-02-06 21:03:21 - (Staff) Ng process a payment for A_01_01, Small Room and the amount is 350.0, the total amount of payment is 350.0 and the change is 0.
+2025-02-06 21:03:21 - (System) Ng process a payment and generate a receipt for A_01_01, Small Room and the receipt number is REC10001.
+2025-02-06 21:03:44 - (Staff) Ng enter into staff function.
+2025-02-06 21:03:46 - (Staff) Ng enter view all payments Staff function.
+2025-02-06 21:03:47 - (Staff) Ng searched payment for A_01_01(Room Type: All) when All month, All year.
+2025-02-06 21:03:55 - (Staff) Ng enter into staff function.
+2025-02-06 21:03:56 - (Staff) Ng enter view all payments Staff function.
+2025-02-06 21:04:00 - (Staff) Ng searched receipt for A_01_01(Room Type: All) when All month, All year.
+2025-02-06 21:04:54 - (Staff) Ng enter into staff function.
+2025-02-06 21:04:55 - (Staff) Ng logout the system.
+2025-02-06 21:05:02 - (Resident) A login into system.
+2025-02-06 21:05:02 - (Resident) A enter into resident function.
+2025-02-06 21:05:03 - (Resident) A enter view all payments Resident function.
+2025-02-06 21:05:04 - (Resident) A searched payment for C_01_01(Room Type: Small Room) when All month, All year.
+2025-02-06 21:05:12 - (Resident) A enter into resident function.
+2025-02-06 21:05:22 - (Resident) A logout the system.
+2025-02-06 21:05:39 - (Resident) AA login into system.
+2025-02-06 21:05:39 - (Resident) AA enter into resident function.
+2025-02-06 21:05:40 - (Resident) AA enter view all payments Resident function.
+2025-02-06 21:05:41 - (Resident) AA searched payment for A_01_01(Room Type: Small Room) when All month, All year.
+2025-02-06 21:06:23 - (Resident) AA searched payment receipt by RECEIPT NUMBER: REC10001.
+2025-02-06 21:06:26 - (Resident) AA searched receipt for A_01_01(Room Type: Small Room) when All month, All year.
+2025-02-06 21:06:31 - (Resident) AA searched receipt for A_01_01(Room Type: Small Room) when January month, 2021 year.
+2025-02-06 21:06:31 - (Resident) AA searched receipt for A_01_01(Room Type: Small Room) when January month, 2021 year.
+2025-02-06 21:06:32 - (Resident) AA searched payment receipt by RECEIPT NUMBER: REC10001.
+2025-02-06 21:06:35 - (Resident) AA enter into resident function.
+2025-02-06 21:06:43 - (Resident) AA logout the system.
+2025-02-06 21:06:51 - (Manager) Ng login into system.
+2025-02-06 21:06:51 - (Manager) Ng enter into manager function.
+2025-02-06 21:06:55 - (Manager) Ng opened the system logs manager function.
+2025-02-06 21:07:03 - (Manager) Ng enter into manager function.
+2025-02-06 21:07:08 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-06 21:07:09 - (Manager) Ng enter into manager function.
+2025-02-06 21:07:12 - (Manager) Ng Enter add user manager function.
+2025-02-06 21:09:43 - (Manager) Ng enter into manager function.
+2025-02-06 21:11:27 - (Manager) Ng enter view all payments Manager function.
+2025-02-06 21:11:28 - (Manager) Ng searched payment for A_01_01(Room Type: All) when All month, All year.
+2025-02-06 21:15:23 - (Manager) Ng enter into manager function.
+2025-02-06 21:15:25 - (Manager) Ng logout the system.
+2025-02-06 21:15:28 - (System) System has been closed.
+2025-02-12 12:14:12 - (System) System has started.
+2025-02-12 12:14:28 - (Manager) Ng login into system.
+2025-02-12 12:14:28 - (Manager) Ng enter into manager function.
+2025-02-12 12:14:30 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 12:14:39 - (Manager) Ng change payment, 10001
+2025-02-12 12:14:39 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 12:14:49 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 12:14:50 - (Manager) Ng enter into manager function.
+2025-02-12 12:14:53 - (Manager) Ng logout the system.
+2025-02-12 12:15:06 - (Staff) Ng login into system.
+2025-02-12 12:15:06 - (Staff) Ng enter into staff function.
+2025-02-12 12:15:07 - (Staff) Ng open process payment staff function.
+2025-02-12 12:16:12 - (Staff) Ng process a payment for A_01_01, Small Room and the amount is 350.0, the total amount of payment is 350.0 and the change is 0.
+2025-02-12 12:16:12 - (System) Ng process a payment and generate a receipt for A_01_01, Small Room and the receipt number is REC10002.
+2025-02-12 12:18:21 - (Staff) Ng enter into staff function.
+2025-02-12 12:18:22 - (Staff) Ng enter view all payments Staff function.
+2025-02-12 12:18:27 - (Staff) Ng searched receipt for A_01_01(Room Type: All) when All month, All year.
+2025-02-12 12:18:34 - (Staff) Ng enter into staff function.
+2025-02-12 12:18:36 - (Staff) Ng logout the system.
+2025-02-12 12:18:47 - (Manager) Ng login into system.
+2025-02-12 12:18:47 - (Manager) Ng enter into manager function.
+2025-02-12 12:18:49 - (Manager) Ng enter approve registration request manager function.
+2025-02-12 12:18:50 - (Manager) Ng enter into manager function.
+2025-02-12 12:18:51 - (Manager) Ng Enter add user manager function.
+2025-02-12 12:18:52 - (Manager) Ng enter into manager function.
+2025-02-12 12:18:52 - (Manager) Ng enter into user management manager function.
+2025-02-12 12:18:54 - (Manager) Ng enter into manager function.
+2025-02-12 12:18:55 - (Manager) Ng enter into user management manager function.
+2025-02-12 12:18:56 - (Manager) Ng enter into manager function.
+2025-02-12 12:18:57 - (Manager) Ng enter into openUpdatePaymentRate manager function.
+2025-02-12 12:18:58 - (Manager) Ng enter into manager function.
+2025-02-12 12:18:59 - (Manager) Ng enter view all payments Manager function.
+2025-02-12 12:19:00 - (Manager) Ng enter into manager function.
+2025-02-12 12:19:01 - (Manager) Ng enter approve registration request manager function.
+2025-02-12 12:19:05 - (Manager) Ng enter into manager function.
+2025-02-12 12:19:06 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 12:19:11 - (Manager) Ng enter into manager function.
+2025-02-12 12:19:12 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 12:19:25 - (Manager) Ng enter into manager function.
+2025-02-12 12:19:27 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 12:19:28 - (Manager) Ng enter into manager function.
+2025-02-12 12:19:28 - (Manager) Ng opened the system logs manager function.
+2025-02-12 12:21:08 - (Manager) Ng enter into manager function.
+2025-02-12 12:21:10 - (Manager) Ng enter view all payments Manager function.
+2025-02-12 12:21:11 - (Manager) Ng searched payment for A_01_01(Room Type: All) when All month, All year.
+2025-02-12 12:21:30 - (Manager) Ng searched payment by PAYMENT NUMBER: 10002.
+2025-02-12 12:21:33 - (Manager) Ng enter into manager function.
+2025-02-12 12:21:34 - (Manager) Ng opened the system logs manager function.
+2025-02-12 12:21:35 - (Manager) Ng enter into manager function.
+2025-02-12 12:21:36 - (Manager) Ng logout the system.
+2025-02-12 12:21:37 - (System) System has been closed.
+2025-02-12 12:46:52 - (System) System has started.
+2025-02-12 12:47:09 - (Staff) Ng login into system.
+2025-02-12 12:47:09 - (Staff) Ng enter into staff function.
+2025-02-12 12:47:12 - (Staff) Ng open process payment staff function.
+2025-02-12 12:47:21 - (Staff) Ng enter into staff function.
+2025-02-12 12:47:26 - (Staff) Ng logout the system.
+2025-02-12 12:47:43 - (Manager) Ng login into system.
+2025-02-12 12:47:43 - (Manager) Ng enter into manager function.
+2025-02-12 12:47:45 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 12:47:54 - (Manager) Ng change payment, 10001
+2025-02-12 12:47:54 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 12:47:56 - (Manager) Ng enter into manager function.
+2025-02-12 12:48:03 - (Manager) Ng logout the system.
+2025-02-12 12:48:18 - (Staff) Ng login into system.
+2025-02-12 12:48:18 - (Staff) Ng enter into staff function.
+2025-02-12 12:48:19 - (Staff) Ng open process payment staff function.
+2025-02-12 12:48:36 - (Staff) Ng process a payment for A_01_01, Small Room and the amount is 0.0, the total amount of payment is 350.0 and the change is 0.
+2025-02-12 12:48:36 - (System) Ng process a payment and generate a receipt for A_01_01, Small Room and the receipt number is REC10003.
+2025-02-12 12:50:23 - (System) System has started.
+2025-02-12 12:50:26 - (System) System has been closed.
+2025-02-12 12:50:29 - (Staff) Ng enter into staff function.
+2025-02-12 12:50:30 - (Staff) Ng enter view all payments Staff function.
+2025-02-12 12:50:37 - (Staff) Ng searched payment by PAYMENT NUMBER: 10001.
+2025-02-12 12:50:57 - (Staff) Ng searched payment receipt by RECEIPT NUMBER: REC10001.
+2025-02-12 12:51:05 - (Staff) Ng enter into staff function.
+2025-02-12 12:51:08 - (Staff) Ng logout the system.
+2025-02-12 12:51:49 - (Resident) AA login into system.
+2025-02-12 12:51:49 - (Resident) AA enter into resident function.
+2025-02-12 12:51:52 - (Resident) AA enter view all payments Resident function.
+2025-02-12 12:51:55 - (Resident) AA searched payment for A_01_01(Room Type: Small Room) when All month, All year.
+2025-02-12 12:52:05 - (Resident) AA enter into resident function.
+2025-02-12 12:52:08 - (Resident) AA logout the system.
+2025-02-12 12:52:09 - (System) System has been closed.
+2025-02-12 12:54:28 - (System) System has started.
+2025-02-12 12:55:15 - (Resident) Ng login into system.
+2025-02-12 12:55:16 - (Resident) Ng enter into resident function.
+2025-02-12 12:55:17 - (Resident) Ng enter view all payments Resident function.
+2025-02-12 12:55:20 - (Resident) Ng searched payment for B_01_01(Room Type: Small Room) when All month, All year.
+2025-02-12 12:55:22 - (Resident) Ng enter into resident function.
+2025-02-12 12:55:28 - (Resident) Ng logout the system.
+2025-02-12 12:56:25 - (System) System has been closed.
+2025-02-12 12:56:28 - (System) System has started.
+2025-02-12 12:58:03 - (System) System has been closed.
+2025-02-12 13:33:40 - (System) System has started.
+2025-02-12 13:34:05 - (Manager) Ng login into system.
+2025-02-12 13:34:05 - (Manager) Ng enter into manager function.
+2025-02-12 13:34:08 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 13:34:27 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-02-12 13:34:29 - (Manager) Ng enter into manager function.
+2025-02-12 13:34:31 - (Manager) Ng logout the system.
+2025-02-12 13:34:33 - (System) System has been closed.
+2025-02-12 13:39:56 - (System) System has started.
+2025-02-12 13:40:09 - (Manager) Ng login into system.
+2025-02-12 13:40:09 - (Manager) Ng enter into manager function.
+2025-02-12 13:40:12 - (Manager) Ng enter into openUpdatePaymentRate manager function.
+2025-02-12 13:40:17 - (Manager) Ng enter into manager function.
+2025-02-12 13:40:19 - (Manager) Ng logout the system.
+2025-02-12 13:40:20 - (System) System has been closed.
+2025-02-13 19:31:32 - (System) System has started.
+2025-02-13 19:31:50 - (Resident) AA login into system.
+2025-02-13 19:31:50 - (Resident) AA enter into resident function.
+2025-02-13 19:31:52 - (Resident) AA enter view all payments Resident function.
+2025-02-13 19:31:53 - (Resident) AA searched payment for A_01_01(Room Type: Small Room) when All month, All year.
+2025-02-13 19:31:57 - (Resident) AA enter into resident function.
+2025-02-13 19:32:02 - (Resident) AA logout the system.
+2025-02-13 19:32:10 - (Resident) AA login into system.
+2025-02-13 19:32:10 - (Resident) AA enter into resident function.
+2025-02-13 19:32:12 - (Resident) AA enter view all payments Resident function.
+2025-02-13 19:32:17 - (Resident) AA searched payment for A_01_01(Room Type: Small Room) when All month, All year.
+2025-02-13 19:33:09 - (Resident) AA enter into resident function.
+2025-02-13 19:33:11 - (Resident) AA logout the system.
+2025-02-13 19:33:12 - (System) System has been closed.
+2025-02-18 09:29:34 - (System) System has started.
+2025-02-18 10:19:35 - (System) A registration request of Manager have been generated by 111.
+2025-02-18 10:20:11 - (System) A registration request of Staff have been generated by 222.
+2025-02-18 10:20:51 - (System) A registration request of Resident have been generated by 333.
+2025-02-18 10:21:24 - (System) A registration request of Resident have been generated by 444.
+2025-02-18 10:21:57 - (Manager) Ng login into system.
+2025-02-18 10:21:57 - (Manager) Ng enter into manager function.
+2025-02-18 10:21:59 - (Manager) Ng enter approve registration request manager function.
+2025-02-18 10:22:05 - (Manager) Ng approve a registration request: 111(Manager)
+2025-02-18 10:22:33 - (Manager) Ng enter into manager function.
+2025-02-18 10:22:36 - (Manager) Ng enter approve registration request manager function.
+2025-02-18 10:22:45 - (Manager) Ng approve a registration request: 222(Staff)
+2025-02-18 10:22:49 - (Manager) Ng enter into manager function.
+2025-02-18 10:22:51 - (Manager) Ng enter approve registration request manager function.
+2025-02-18 10:22:58 - (Manager) Ng approve a registration request: 333(Resident)
+2025-02-18 10:23:04 - (Manager) Ng approve a registration request: 444(Resident)
+2025-02-18 10:23:05 - (Manager) Ng enter into manager function.
+2025-02-18 10:23:25 - (Manager) Ng Enter add user manager function.
+2025-02-18 10:23:28 - (Manager) Ng enter into manager function.
+2025-02-18 10:23:35 - (Manager) Ng opened the system logs manager function.
+2025-02-18 10:23:52 - (Manager) Ng enter into manager function.
+2025-02-18 10:24:03 - (Manager) Ng enter into openUpdatePaymentRate manager function.
+2025-02-18 10:24:27 - (Manager) Ng enter into manager function.
+2025-02-18 10:24:31 - (Manager) Ng logout the system.
+2025-02-18 10:24:42 - (Staff) 222 login into system.
+2025-02-18 10:24:42 - (Staff) 222 enter into staff function.
+2025-02-18 10:24:44 - (Staff) 222 open process payment staff function.
+2025-02-18 10:25:19 - (Staff) 222 process a payment for C_12_01, Small Room and the amount is 350.0, the total amount of payment is 350.0 and the change is 0.
+2025-02-18 10:25:19 - (System) 222 process a payment and generate a receipt for C_12_01, Small Room and the receipt number is REC10004.
+2025-02-18 10:25:49 - (Staff) 222 enter into staff function.
+2025-02-18 10:25:52 - (Staff) 222 logout the system.
+2025-02-18 10:26:01 - (Manager) 111 login into system.
+2025-02-18 10:26:01 - (Manager) 111 enter into manager function.
+2025-02-18 10:26:03 - (Manager) 111 enter into openUpdatePaymentRate manager function.
+2025-02-18 10:26:27 - (Manager) 111 enter into manager function.
+2025-02-18 10:26:27 - (Manager) 111 update the Small Room payment rate from 350.0 to 500.0
+2025-02-18 10:26:30 - (Manager) 111 logout the system.
+2025-02-18 10:26:40 - (Staff) 222 login into system.
+2025-02-18 10:26:40 - (Staff) 222 enter into staff function.
+2025-02-18 10:26:42 - (Staff) 222 open process payment staff function.
+2025-02-18 10:27:18 - (Staff) 222 enter into staff function.
+2025-02-18 10:27:19 - (Staff) 222 enter view all payments Staff function.
+2025-02-18 10:27:33 - (Staff) 222 searched payment for C_12_01(Room Type: All) when All month, All year.
+2025-02-18 10:27:34 - (Staff) 222 searched payment for C_12_01(Room Type: All) when All month, All year.
+2025-02-18 10:28:06 - (Staff) 222 enter into staff function.
+2025-02-18 10:28:10 - (Staff) 222 logout the system.
+2025-02-18 10:28:21 - (Resident) 333 login into system.
+2025-02-18 10:28:21 - (Resident) 333 enter into resident function.
+2025-02-18 10:28:24 - (Resident) 333 enter view all payments Resident function.
+2025-02-18 10:28:27 - (Resident) 333 searched payment for C_12_01(Room Type: Small Room) when All month, All year.
+2025-02-18 10:28:31 - (Resident) 333 enter into resident function.
+2025-02-18 10:28:34 - (Resident) 333 logout the system.
+2025-02-18 10:28:41 - (Resident) 444 login into system.
+2025-02-18 10:28:41 - (Resident) 444 enter into resident function.
+2025-02-18 10:28:44 - (Resident) 444 enter view all payments Resident function.
+2025-02-18 10:28:46 - (Resident) 444 searched payment for C_11_01(Room Type: Small Room) when All month, All year.
+2025-02-18 10:28:55 - (Resident) 444 enter into resident function.
+2025-02-18 10:29:26 - (Resident) 444 enter into resident function.
+2025-02-18 10:29:29 - (Resident) 444 logout the system.
+2025-02-18 10:29:40 - (Manager) 111 login into system.
+2025-02-18 10:29:40 - (Manager) 111 enter into manager function.
+2025-02-18 10:29:42 - (Manager) 111 enter modify/delete payment receipt manager function.
+2025-02-18 10:29:44 - (Manager) 111 enter into manager function.
+2025-02-18 10:30:23 - (Manager) 111 enter view all payments Manager function.
+2025-02-18 10:30:27 - (Manager) 111 enter into manager function.
+2025-02-18 10:44:04 - (Manager) 111 enter modify/delete payment receipt manager function.
+2025-02-18 10:44:06 - (Manager) 111 enter into manager function.
+2025-02-18 10:44:08 - (Manager) 111 logout the system.
+2025-02-18 10:44:29 - (System) System has been closed.
+2025-03-10 17:57:15 - (System) System has started.
+2025-03-10 17:57:15 - (System) A MARCH, 2025 payment for A_01_01 (Small Room) has been generated
+2025-03-10 17:57:15 - (System) A MARCH, 2025 payment for A_01_01 (Normal Room) has been generated
+2025-03-10 17:57:15 - (System) A MARCH, 2025 payment for A_01_01 (Master Room) has been generated
+2025-03-10 17:57:15 - (System) A MARCH, 2025 payment for B_01_01 (Small Room) has been generated
+2025-03-10 17:57:15 - (System) A MARCH, 2025 payment for C_01_01 (Small Room) has been generated
+2025-03-10 17:57:15 - (System) A MARCH, 2025 payment for C_12_01 (Small Room) has been generated
+2025-03-10 17:57:15 - (System) A MARCH, 2025 payment for C_11_01 (Small Room) has been generated
+2025-03-10 17:57:37 - (Manager) Ng login into system.
+2025-03-10 17:57:37 - (Manager) Ng enter into manager function.
+2025-03-10 17:57:38 - (Manager) Ng opened the system logs manager function.
+2025-03-10 17:57:39 - (Manager) Ng enter into manager function.
+2025-03-10 17:57:41 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-03-10 17:57:42 - (Manager) Ng enter into manager function.
+2025-03-10 17:57:44 - (Manager) Ng enter into openUpdatePaymentRate manager function.
+2025-03-10 17:57:45 - (Manager) Ng enter into manager function.
+2025-03-10 17:57:45 - (Manager) Ng enter view all payments Manager function.
+2025-03-10 17:57:46 - (Manager) Ng enter into manager function.
+2025-03-10 17:57:47 - (Manager) Ng enter into user management manager function.
+2025-03-10 17:57:48 - (Manager) Ng enter into manager function.
+2025-03-10 17:57:49 - (Manager) Ng Enter add user manager function.
+2025-03-10 17:57:50 - (Manager) Ng enter into manager function.
+2025-03-10 17:57:52 - (Manager) Ng enter approve registration request manager function.
+2025-03-10 17:57:53 - (Manager) Ng enter into manager function.
+2025-03-10 17:57:54 - (Manager) Ng enter into openUpdatePaymentRate manager function.
+2025-03-10 17:57:55 - (Manager) Ng enter into manager function.
+2025-03-10 17:57:56 - (Manager) Ng logout the system.
+2025-03-10 17:57:59 - (System) System has been closed.
+2025-03-25 21:24:51 - (System) System has started.
+2025-03-25 21:25:03 - (Resident) Ng login into system.
+2025-03-25 21:25:03 - (Resident) Ng enter into resident function.
+2025-03-25 21:25:04 - (Resident) Ng enter view all payments Resident function.
+2025-03-25 21:25:06 - (Resident) Ng searched payment for B_01_01(Room Type: Small Room) when All month, All year.
+2025-03-25 21:25:19 - (Resident) Ng enter into resident function.
+2025-03-25 21:25:21 - (Resident) Ng enter into resident function.
+2025-03-25 21:25:23 - (Resident) Ng logout the system.
+2025-03-25 21:25:29 - (Staff) Ng login into system.
+2025-03-25 21:25:29 - (Staff) Ng enter into staff function.
+2025-03-25 21:25:31 - (Staff) Ng enter view all payments Staff function.
+2025-03-25 21:25:32 - (Staff) Ng enter into staff function.
+2025-03-25 21:25:34 - (Staff) Ng enter into staff function.
+2025-03-25 21:25:35 - (Staff) Ng open process payment staff function.
+2025-03-28 14:54:42 - (System) System has started.
+2025-03-28 14:54:51 - (Manager) Ng login into system.
+2025-03-28 14:54:51 - (Manager) Ng enter into manager function.
+2025-03-28 14:54:55 - (Manager) Ng enter approve registration request manager function.
+2025-03-28 14:54:56 - (Manager) Ng enter into manager function.
+2025-03-28 14:54:57 - (Manager) Ng Enter add user manager function.
+2025-03-28 14:54:58 - (Manager) Ng enter into manager function.
+2025-03-28 14:54:59 - (Manager) Ng enter into user management manager function.
+2025-03-28 14:55:04 - (Manager) Ng search Resident, A
+2025-03-28 14:55:10 - (Manager) Ng enter into manager function.
+2025-03-28 14:55:11 - (Manager) Ng enter into openUpdatePaymentRate manager function.
+2025-03-28 14:55:17 - (Manager) Ng enter into manager function.
+2025-03-28 14:55:18 - (Manager) Ng enter view all payments Manager function.
+2025-03-28 14:55:27 - (Manager) Ng searched payment for A_01_01(Room Type: All) when All month, All year.
+2025-03-28 14:55:32 - (Manager) Ng enter into manager function.
+2025-03-28 14:55:37 - (Manager) Ng opened the system logs manager function.
+2025-03-28 14:56:01 - (Manager) Ng enter into manager function.
+2025-03-28 14:56:05 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-03-28 14:56:12 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-03-28 14:56:12 - (Manager) Ng enter into manager function.
+2025-03-28 14:56:14 - (Manager) Ng logout the system.
+2025-03-28 14:56:32 - (System) System has been closed.
+2025-04-29 16:47:34 - (System) System has started.
+2025-04-29 16:47:34 - (System) A APRIL, 2025 payment for A_01_01 (Small Room) has been generated
+2025-04-29 16:47:34 - (System) A APRIL, 2025 payment for A_01_01 (Normal Room) has been generated
+2025-04-29 16:47:34 - (System) A APRIL, 2025 payment for A_01_01 (Master Room) has been generated
+2025-04-29 16:47:34 - (System) A APRIL, 2025 payment for B_01_01 (Small Room) has been generated
+2025-04-29 16:47:34 - (System) A APRIL, 2025 payment for C_01_01 (Small Room) has been generated
+2025-04-29 16:47:34 - (System) A APRIL, 2025 payment for C_12_01 (Small Room) has been generated
+2025-04-29 16:47:34 - (System) A APRIL, 2025 payment for C_11_01 (Small Room) has been generated
+2025-04-29 16:47:47 - (Resident) Ng login into system.
+2025-04-29 16:47:47 - (Resident) Ng enter into resident function.
+2025-04-29 16:48:05 - (Resident) Ng enter view all payments Resident function.
+2025-04-29 16:48:07 - (Resident) Ng enter into resident function.
+2025-04-29 16:48:09 - (Resident) Ng enter into resident function.
+2025-04-29 16:48:10 - (Resident) Ng enter view all payments Resident function.
+2025-04-29 16:48:11 - (Resident) Ng enter into resident function.
+2025-04-29 16:48:13 - (Resident) Ng logout the system.
+2025-04-29 16:48:25 - (Staff) Ng login into system.
+2025-04-29 16:48:25 - (Staff) Ng enter into staff function.
+2025-04-29 16:48:28 - (Staff) Ng enter view all payments Staff function.
+2025-04-29 16:48:30 - (Staff) Ng searched payment for A_01_01(Room Type: All) when All month, All year.
+2025-04-29 16:50:13 - (Staff) Ng enter into staff function.
+2025-04-29 16:50:16 - (Staff) Ng logout the system.
+2025-04-29 16:50:16 - (System) System has been closed.
+2025-04-29 16:56:12 - (System) System has started.
+2025-04-29 16:56:26 - (Staff) Ng login into system.
+2025-04-29 16:56:26 - (Staff) Ng enter into staff function.
+2025-04-29 16:56:31 - (Staff) Ng logout the system.
+2025-04-29 16:56:38 - (Manager) Ng login into system.
+2025-04-29 16:56:38 - (Manager) Ng enter into manager function.
+2025-04-29 16:56:40 - (Manager) Ng enter approve registration request manager function.
+2025-04-29 16:56:49 - (Manager) Ng enter into manager function.
+2025-04-29 16:56:50 - (Manager) Ng Enter add user manager function.
+2025-04-29 16:56:51 - (Manager) Ng enter into manager function.
+2025-04-29 16:56:52 - (Manager) Ng enter into user management manager function.
+2025-04-29 16:56:54 - (Manager) Ng enter into manager function.
+2025-04-29 16:57:00 - (Manager) Ng enter into openUpdatePaymentRate manager function.
+2025-04-29 16:57:01 - (Manager) Ng enter into manager function.
+2025-04-29 16:57:02 - (Manager) Ng enter into openUpdatePaymentRate manager function.
+2025-04-29 16:57:17 - (Manager) Ng enter into manager function.
+2025-04-29 16:57:18 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-04-29 16:57:21 - (Manager) Ng enter into manager function.
+2025-04-29 16:57:23 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-04-29 16:57:23 - (Manager) Ng enter into manager function.
+2025-04-29 16:57:24 - (Manager) Ng opened the system logs manager function.
+2025-04-29 16:58:57 - (Manager) Ng enter into manager function.
+2025-04-29 16:59:01 - (Manager) Ng enter approve registration request manager function.
+2025-04-29 16:59:02 - (Manager) Ng enter into manager function.
+2025-04-29 16:59:08 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-04-29 16:59:30 - (Manager) Ng enter into manager function.
+2025-04-29 16:59:35 - (Manager) Ng opened the system logs manager function.
+2025-04-29 16:59:57 - (Manager) Ng enter into manager function.
+2025-04-29 17:00:54 - (Manager) Ng opened the system logs manager function.
+2025-04-29 17:00:55 - (Manager) Ng enter into manager function.
+2025-04-29 17:00:57 - (Manager) Ng enter view all payments Manager function.
+2025-04-29 17:00:58 - (Manager) Ng enter into manager function.
+2025-04-29 17:01:00 - (Manager) Ng logout the system.
+2025-04-29 17:04:31 - (Staff) Ng login into system.
+2025-04-29 17:04:31 - (Staff) Ng enter into staff function.
+2025-04-29 17:04:40 - (Staff) Ng enter into staff function.
+2025-04-29 17:04:41 - (Staff) Ng open process payment staff function.
+2025-04-29 17:04:42 - (Staff) Ng enter into staff function.
+2025-04-29 17:04:43 - (Staff) Ng logout the system.
+2025-04-29 17:04:56 - (Manager) Ng login into system.
+2025-04-29 17:04:56 - (Manager) Ng enter into manager function.
+2025-04-29 17:04:59 - (Manager) Ng enter into user management manager function.
+2025-04-29 17:06:03 - (Manager) Ng enter into manager function.
+2025-04-29 17:06:05 - (Manager) Ng logout the system.
+2025-04-29 17:07:17 - (Manager) Ng login into system.
+2025-04-29 17:07:17 - (Manager) Ng enter into manager function.
+2025-04-29 17:07:36 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-04-29 17:09:08 - (Manager) Ng enter modify/delete payment receipt manager function.
+2025-04-29 17:09:09 - (Manager) Ng enter into manager function.
+2025-04-29 17:10:33 - (Manager) Ng logout the system.
+2025-04-29 17:10:34 - (System) System has been closed.
+2025-05-09 03:12:48 - (System) System has started.
+2025-05-09 03:12:48 - (System) A MAY, 2025 payment for A_01_01 (Small Room) has been generated
+2025-05-09 03:12:48 - (System) A MAY, 2025 payment for A_01_01 (Normal Room) has been generated
+2025-05-09 03:12:48 - (System) A MAY, 2025 payment for A_01_01 (Master Room) has been generated
+2025-05-09 03:12:48 - (System) A MAY, 2025 payment for B_01_01 (Small Room) has been generated
+2025-05-09 03:12:48 - (System) A MAY, 2025 payment for C_01_01 (Small Room) has been generated
+2025-05-09 03:12:48 - (System) A MAY, 2025 payment for C_12_01 (Small Room) has been generated
+2025-05-09 03:12:48 - (System) A MAY, 2025 payment for C_11_01 (Small Room) has been generated
+2025-05-09 03:17:24 - (System) System has started.
+2025-05-09 03:17:41 - (System) System has been closed.
+2025-05-09 03:17:50 - (System) System has started.
+2025-05-09 03:18:26 - (Resident) Ng login into system.
+2025-05-09 03:18:26 - (Resident) Ng enter into resident function.
+2025-05-09 03:18:47 - (Resident) Ng enter view all payments Resident function.
+2025-05-09 03:18:49 - (Resident) Ng searched payment for B_01_01(Room Type: Small Room) when All month, All year.
+2025-05-09 03:19:01 - (Resident) Ng enter into resident function.
+2025-05-09 03:19:08 - (Resident) Ng enter into resident function.
+2025-05-09 03:19:09 - (Resident) Ng logout the system.
+2025-05-09 03:19:17 - (Staff) Ng login into system.
+2025-05-09 03:19:17 - (Staff) Ng enter into staff function.
+2025-05-09 03:19:20 - (Staff) Ng enter into staff function.
+2025-05-09 03:19:20 - (Staff) Ng open process payment staff function.
+2025-05-09 03:19:38 - (Staff) Ng enter into staff function.
+2025-05-09 03:19:40 - (Staff) Ng logout the system.
+2025-05-09 03:19:40 - (System) System has been closed.

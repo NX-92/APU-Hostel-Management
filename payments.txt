@@ -1,0 +1,280 @@
+10001
+A_01_01
+Small Room
+AA
+FEBRUARY
+2025
+500.00
+350.00
+Successful
+
+10002
+A_01_01
+Normal Room
+B
+FEBRUARY
+2025
+400.00
+400.00
+Unsuccessful
+
+10003
+A_01_01
+Master Room
+C
+FEBRUARY
+2025
+1000.00
+1000.00
+Unsuccessful
+
+10004
+B_01_01
+Small Room
+Ng
+FEBRUARY
+2025
+350.00
+350.00
+Unsuccessful
+
+10005
+C_01_01
+Small Room
+A
+FEBRUARY
+2025
+350.00
+350.00
+Unsuccessful
+
+10006
+C_12_01
+Small Room
+333
+FEBRUARY
+2025
+0.00
+350.00
+Successful
+
+10007
+C_11_01
+Small Room
+444
+FEBRUARY
+2025
+350.00
+350.00
+Unsuccessful
+
+10008
+A_01_01
+Small Room
+AA
+MARCH
+2025
+500.00
+500.00
+Unsuccessful
+
+10009
+A_01_01
+Normal Room
+B
+MARCH
+2025
+400.00
+400.00
+Unsuccessful
+
+10010
+A_01_01
+Master Room
+C
+MARCH
+2025
+1000.00
+1000.00
+Unsuccessful
+
+10011
+B_01_01
+Small Room
+Ng
+MARCH
+2025
+500.00
+500.00
+Unsuccessful
+
+10012
+C_01_01
+Small Room
+A
+MARCH
+2025
+500.00
+500.00
+Unsuccessful
+
+10013
+C_12_01
+Small Room
+333
+MARCH
+2025
+500.00
+500.00
+Unsuccessful
+
+10014
+C_11_01
+Small Room
+444
+MARCH
+2025
+500.00
+500.00
+Unsuccessful
+
+10015
+A_01_01
+Small Room
+AA
+APRIL
+2025
+500.00
+500.00
+Unsuccessful
+
+10016
+A_01_01
+Normal Room
+B
+APRIL
+2025
+400.00
+400.00
+Unsuccessful
+
+10017
+A_01_01
+Master Room
+C
+APRIL
+2025
+1000.00
+1000.00
+Unsuccessful
+
+10018
+B_01_01
+Small Room
+Ng
+APRIL
+2025
+500.00
+500.00
+Unsuccessful
+
+10019
+C_01_01
+Small Room
+A
+APRIL
+2025
+500.00
+500.00
+Unsuccessful
+
+10020
+C_12_01
+Small Room
+333
+APRIL
+2025
+500.00
+500.00
+Unsuccessful
+
+10021
+C_11_01
+Small Room
+444
+APRIL
+2025
+500.00
+500.00
+Unsuccessful
+
+10022
+A_01_01
+Small Room
+AA
+MAY
+2025
+500.00
+500.00
+Unsuccessful
+
+10023
+A_01_01
+Normal Room
+B
+MAY
+2025
+400.00
+400.00
+Unsuccessful
+
+10024
+A_01_01
+Master Room
+C
+MAY
+2025
+1000.00
+1000.00
+Unsuccessful
+
+10025
+B_01_01
+Small Room
+Ng
+MAY
+2025
+500.00
+500.00
+Unsuccessful
+
+10026
+C_01_01
+Small Room
+A
+MAY
+2025
+500.00
+500.00
+Unsuccessful
+
+10027
+C_12_01
+Small Room
+333
+MAY
+2025
+500.00
+500.00
+Unsuccessful
+
+10028
+C_11_01
+Small Room
+444
+MAY
+2025
+500.00
+500.00
+Unsuccessful
+

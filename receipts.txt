@@ -1,0 +1,52 @@
+REC10001
+A_01_01
+Small Room
+AA
+FEBRUARY
+2025
+350.0
+560.0
+0.0
+210.0
+2025-02-06
+Successful
+
+REC10002
+A_01_01
+Small Room
+AA
+FEBRUARY
+2025
+350.0
+400.0
+0.0
+50.0
+2025-02-12
+Successful
+
+REC10003
+A_01_01
+Small Room
+AA
+FEBRUARY
+2025
+350.0
+200.0
+0.0
+200.0
+2025-02-12
+Successful
+
+REC10004
+C_12_01
+Small Room
+333
+FEBRUARY
+2025
+350.0
+350.0
+0.0
+0.0
+2025-02-18
+Successful
+

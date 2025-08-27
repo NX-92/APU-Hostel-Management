@@ -1,0 +1,56 @@
+AA
+A123123123
+A123@gmail.com
+012-2738123
+Resident
+A_01_01
+Small Room
+
+B
+B123123123
+B123@gmail.com
+011-4293823
+Resident
+A_01_01
+Normal Room
+
+C
+C123123123
+C123@gmail.com
+011-47283931
+Resident
+A_01_01
+Master Room
+
+Ng
+A123123123
+Ng123@gmail.com
+012-4878283
+Resident
+B_01_01
+Small Room
+
+A
+A123123123
+AB123@gmail.com
+012-74728731
+Resident
+C_01_01
+Small Room
+
+333
+aaaaaaaa
+333@gmail.com
+333-3333333
+Resident
+C_12_01
+Small Room
+
+444
+aaaaaaaa
+444@gmail.com
+444-4444444
+Resident
+C_11_01
+Small Room
+
